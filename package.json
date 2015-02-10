@@ -36,6 +36,7 @@
     "yargs": "^1.2.1"
   },
   "scripts": {
+    "preinstall": "npm install -g gulp bower",
     "start": "node app/server",
     "test": "gulp build --production"
   },
