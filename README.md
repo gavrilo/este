@@ -35,10 +35,6 @@ In the near future I will introduce Este ES6 edition. Yes, with migration tool.
 
 ## Prerequisites
   [Java 1.7+](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and [Node.js](http://nodejs.org) are required.
-  ```shell
-  npm install -g gulp
-  npm install -g bower
-  ```
 
 For Windows users: [strongloop.com/strongblog/install-node-js-windows](http://strongloop.com/strongblog/install-node-js-windows/). Install everything except StrongLoop.
 
